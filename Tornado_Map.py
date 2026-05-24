@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-#pip install folium
-
-
 import pandas as pd
 import numpy as np
 import folium
